@@ -18,7 +18,13 @@ The specific R or Python knowledge you would need to learn about.
 
 A description of the data you would like to use for your final project:
 
+We are interested in plant species recognition from drone or satellite images.
+The input we need would be the images and information to help us recognize the species.
 
 
 Is the data available?
+Yes, for most regions satellite images would be easy to get. For drone images it could be more difficult in some regions. 
+The information to help us recognize the species is uncertain.
+
 What type of data would you like to visualise/analyse?
+Geo-referenced images of a certain area, characteristics of plant such as physical properties under different polarisation, indices, colour.
